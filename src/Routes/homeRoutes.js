@@ -1,5 +1,6 @@
 import Home from "../Pages/Home";
 import RecentScreen from "../Pages/Recent";
+import TestPage from "../Pages/Test";
 
 const homeRoutes = [
   {
